@@ -1,3 +1,4 @@
+ATTENTION : le projet exemple ce trouve dans la branche Master
 1- npm init -y
 
 2- npm install cypress --save-dev
